@@ -2,12 +2,38 @@ body{
     margin: 0;
 }
 
+hr{
+    border-style: none;
+    width: 5%;
+    border-top: 5px dotted;
+    border-color: grey;
+}
+
+.top-container{
+    background-color: #BBD0D9;
+    padding: 5%;
+}
+
 .logo-div{
+    padding-top: 10%;
+    padding-bottom: 10%;
     background-color: #deeeee;
 }
 
-.middle-container{
+.middle-container-1{
     background-color: #fffff2;
-    padding-top: 5%;
-    padding-left: 2.5%;
+    padding: 10%;
+}
+
+.middle-container-2{
+    background-color: #E7E9FF;
+    padding: 10%;
+}
+
+/* .bottom-container{
+
+} */
+
+#Contact-details{
+    font-size: small;
 }
