@@ -23,16 +23,20 @@ hr{
 .middle-container-1{
     background-color: #fffff2;
     padding: 10%;
+    font-size: small;
 }
 
 .middle-container-2{
     background-color: #E7E9FF;
     padding: 10%;
+    padding-bottom: 2.5%;
 }
 
-/* .bottom-container{
-
-} */
+.bottom-container{
+    background-color: #00AAB2;
+    padding: 10%;
+    padding-bottom: 2.5%;
+}
 
 #Contact-details{
     font-size: small;
